@@ -12,16 +12,16 @@ Dans un second temps, un modèle de classification classifie les différentes im
 2. Installation
 3. Structure du Code
 
-### 1.Préréquis
+### 1. Préréquis
 * Python 3.8 or higher
 * Tensorflow 2.x librairies
 
-### 2.Installation
+### 2. Installation
 ```
 git clone repository_link.git
 cd repository
 ```
-### 3.Structure du Code
+### 3. Structure du Code
 
 **1. Preparation des donnees:**
 * Création des données de test et d'entrainement
