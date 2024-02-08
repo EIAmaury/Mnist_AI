@@ -33,7 +33,7 @@ cd repository
 * Entrainement sur les données bruitées
 * Affichage des résultats
 
-**3.Modèle CNN (convolution neural network)**
+**3.Modèle CNN (Convolution Neural Network)**
 * Encodage des données labélisés
 * Création de couche de convolution, de MaxPooling et de Dense
 * Affichage de la précision
