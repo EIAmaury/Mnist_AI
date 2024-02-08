@@ -34,7 +34,7 @@ cd repository
 **3.Modèle CNN (convolution neural network)**
 * Encodage des données labélisés
 * Création de couche de convolution, de MaxPooling et de Dense
-*Affichage de la précision
+* Affichage de la précision
 
   
 
