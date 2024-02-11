@@ -1,7 +1,7 @@
 # Machine learning using CNN and Autoencoders
 
 ### Description:
-Ce projet a pout bur de débruiter des images liées à la librairie mnist pour classifier ces images dans un second temps. L'objectif est de concevoir un modèle de machine
+Ce projet a pout bur de débruiter des images liées à la librairie mnist dans premier temps pui de les classifier dans un second temps. L'objectif est de concevoir un modèle de machine
 leanring efficace et précis dans le débruitage et classification de données. Ce projet est constitué de deux modèles d'intellignece artifiel. Dans un preimer un modèle d'autoencodeur va apprendre à débruiter les images de la librairie mnist. 
 Dans un second temps, un modèle de classification classifie les différentes images en sortie de l'auto-encodeur.
 
